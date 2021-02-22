@@ -1,9 +1,8 @@
-# Weather_WebApp
+# Weather-App
 
-**WEATHER WEB APPLICATION**
+**WEATHER APPLICATION**
 
 
-![ image ]
 
 
 Implemented **OpenWeatherMap API** *( https://openweathermap.org/current#data )* for Temperature and Weather Condition data.
